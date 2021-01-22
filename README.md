@@ -34,7 +34,7 @@ Here are the different page view ranges and the corresponding monthly price tota
 - 500k pageviews / $24 per month
 - 1M pageviews / $36 per month
 
-If the visitor switches the toggle to yearly billing, a 25% discount should be applied to the price that's displayed.
+If the visitor switches the toggle to yearly billing, a 25% discount should be applied to all prices.
 
 ## Where to find everything
 
